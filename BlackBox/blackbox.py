@@ -96,4 +96,3 @@ def crawler(user_id, store_path, keyword_list, thread_num=4):
 if __name__ == "__main__":
     # crawler(user_id=11033422, store_path='../../../data/', thread_num=4, keyword_list=[])
     crawler(user_id=1366505, store_path='../../../data/', thread_num=4, keyword_list=['壁纸'])
-# https://docs.python.org/zh-cn/3/tutorial/classes.html
